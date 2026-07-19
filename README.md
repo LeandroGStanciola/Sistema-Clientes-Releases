@@ -4,7 +4,7 @@ Bem-vindo à central oficial de downloads do nosso sistema de gestão financeira
 
 ### 📥 Download da Versão Estável
 Clique no link abaixo para baixar o instalador oficial para Windows:
-👉 **[Baixar Instalador Oficial (Windows)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/v1.0.6/Controle_de_Recebimentos-Setup-1.0.6.exe)**
+👉 **[Baixar Instalador Oficial (Windows)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/v1.0.7/Controle_de_Recebimentos-Setup-1.0.7.exe)**
 
 ---
 
