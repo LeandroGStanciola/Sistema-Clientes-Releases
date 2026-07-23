@@ -14,8 +14,6 @@ Bem-vindo à central oficial de downloads do nosso sistema de gestão financeira
 ### 📱 Para Celular (Disponível a partir da v1.0.10)
 
 * **Android:** 👉 **[Baixar Aplicativo Android (.APK - v1.0.10)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/v1.0.10-Mobile/app-debug.apk)**
-* **iPhone (iOS):** Acesse a URL do sistema pelo navegador **Safari** e selecione a opção **"Adicionar à Tela de Início"**.
-
 ---
 
 ## 📲 Como Instalar no Celular
@@ -27,12 +25,6 @@ Bem-vindo à central oficial de downloads do nosso sistema de gestão financeira
 3. Se o celular solicitar permissão, selecione **"Permitir desta fonte"** nas configurações de segurança.
 4. Pronto! O aplicativo será adicionado à sua tela inicial.
 
-### 🍎 iPhone / iOS (PWA / Safari)
-
-1. Abra o navegador **Safari** no seu iPhone e acesse o link do sistema.
-2. Toque no botão de **Compartilhar** *(quadrado com seta apontando para cima)*.
-3. Selecione **"Adicionar à Tela de Início"** e toque em **Adicionar**.
-4. O ícone do sistema será criado e abrirá como um app nativo.
 
 ---
 
