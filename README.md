@@ -12,7 +12,7 @@ Bem-vindo à central oficial de downloads do nosso sistema de gestão financeira
 
 ### 📱 Para Celular
 
-* **Android:** 👉 **[Baixar Aplicativo Android (.APK - Mobile)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/1.0.11-Mobile/app-debug.apk)**
+* **Android:** 👉 **[Baixar Aplicativo Android (.APK - Mobile)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/v1.0.11/app-debug.apk)**
 
 ---
 
