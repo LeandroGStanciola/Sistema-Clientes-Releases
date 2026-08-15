@@ -8,11 +8,11 @@ Bem-vindo à central oficial de downloads do nosso sistema de gestão financeira
 
 ### 💻 Para Computador (Windows)
 
-👉 **[Baixar Instalador Oficial (Windows - v1.0.11)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/v1.0.11/FFlow---Finance-Flow-Setup-1.0.11.exe)**
+👉 **[Baixar Instalador Oficial (Windows - v1.1.1)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/untagged-8a4874fb03f2ff351c61/FFlow---Finance-Flow-Setup-1.1.1.exe)**
 
 ### 📱 Para Celular
 
-* **Android:** 👉 **[Baixar Aplicativo Android (.APK - Mobile)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/v1.0.11/app-debug.apk)**
+* **Android:** 👉 **[Baixar Aplicativo Android (.APK - Mobile)](https://github.com/LeandroGStanciola/Sistema-Clientes-Releases/releases/download/untagged-8a4874fb03f2ff351c61/app-debug.apk)**
 
 ---
 
